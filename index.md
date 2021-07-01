@@ -1,20 +1,11 @@
-# Header 1 Bienvenidos a Descarga Contratos, puedes ver diferetnes contratos para descargar.
+# Bienvenidos a Descarga Contratos, puedes ver diferetnes contratos para descargar.
 
 
 Algunos contratos ejemplos que puedes descargar,
 
 
+[https://contratodecompraventa.online/](https://contratodecompraventa.online/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -24,7 +15,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://contratodecompraventa.online/) and ![Image](src)
+ and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
