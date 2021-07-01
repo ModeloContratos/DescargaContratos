@@ -1,13 +1,9 @@
-Bienvenidos a Descarga Contratos, puedes ver diferetnes contratos para descargar.
+Header 1 Bienvenidos a Descarga Contratos, puedes ver diferetnes contratos para descargar.
 
 
+Algunos contratos ejemplos que puedes descargar,
 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ModeloContratos/DescargaContratos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
