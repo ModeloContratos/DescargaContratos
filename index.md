@@ -4,18 +4,9 @@
 Algunos contratos ejemplos que puedes descargar,
 
 
-[https://contratodecompraventa.online/] (Otros Contratos)
+[https://contratodecompraventa.online/]
+[https://contratodecompraventa.online/wp-content/uploads/2019/09/contratos-gratis-vehiculos.jpg](src)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
- and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
