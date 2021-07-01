@@ -4,7 +4,7 @@
 Algunos contratos ejemplos que puedes descargar,
 
 
-[https://contratodecompraventa.online/]
+
 ![Contrato de coches] (https://contratodecompraventa.online/wp-content/uploads/2019/09/contratos-gratis-vehiculos.jpg) 
 
 
