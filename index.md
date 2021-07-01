@@ -4,8 +4,7 @@
 Algunos contratos ejemplos que puedes descargar,
 
 
-[https://contratodecompraventa.online/](https://contratodecompraventa.online/)
-
+[https://contratodecompraventa.online/]
 
 - Bulleted
 - List
