@@ -10,4 +10,4 @@ Algunos contratos ejemplos que puedes descargar,
 
 ## Mas modelos de contratos en nuestra web
 
-[Ver web de descarga de contratos][https://contratodecompraventa.online/]
+[Ver web de descarga de contratos](https://contratodecompraventa.online/)
